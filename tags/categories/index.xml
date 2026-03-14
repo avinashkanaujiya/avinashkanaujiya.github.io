@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Categories on ink 🖋️</title><link>https://beta.imavinash.net/tags/categories/</link><description>Recent content in Categories on ink 🖋️</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Thu, 12 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://beta.imavinash.net/tags/categories/index.xml" rel="self" type="application/rss+xml"/><item><title>Quotes</title><link>https://beta.imavinash.net/posts/quotes/</link><pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate><guid>https://beta.imavinash.net/posts/quotes/</guid><description>&lt;pre tabindex="0"&gt;&lt;code class="language-meta-bind-button" data-lang="meta-bind-button"&gt;label: Create Quote
+icon: &amp;#34;&amp;#34;
+style: default
+class: &amp;#34;&amp;#34;
+cssStyle: &amp;#34;&amp;#34;
+backgroundImage: &amp;#34;&amp;#34;
+tooltip: &amp;#34;&amp;#34;
+id: create-quote
+hidden: false
+actions:
+- type: templaterCreateNote
+templateFile: Templates/TEMPLATE - Quote.md
+folderPath: /
+fileName: &amp;#34;QUOTE&amp;#34;
+openNote: true
+openIfAlreadyExists: false
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;%% DATAVIEW_PUBLISHER: start&lt;/p&gt;
+&lt;pre tabindex="0"&gt;&lt;code class="language-dataview" data-lang="dataview"&gt;TABLE WITHOUT ID link(file.link,quote) as Quotes WHERE !contains(file.folder, &amp;#34;Template&amp;#34;) &amp;amp; contains(file.tags, &amp;#34;quote&amp;#34;)
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;%%&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Quotes&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;“Warren (Buffett) was playing golf at Pebble Beach with Charlie Munger (Berkshire Hathaway Vice-Chairman), Jack Byrne (Fireman&amp;rsquo;s Fund Chairman), and another person. One of them proposed. “Warren, if you shoot a hole-in-one on this 18-hole course, we&amp;rsquo;ll give you U$10,000. If you don&amp;rsquo;t shoot a hole-in-one, you owe us U$10”. Warren thought about it and said, “I&amp;rsquo;m not taking the bet.” The others said, “Why don&amp;rsquo;t you? The most you can lose is U$10. You can make U$10,000.” Warren replied, “If you are not disciplined in the little things, you won&amp;rsquo;t be disciplined in the big things.”&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;“Finish every day and be done with it. You have done what you could; some blunders and absurdities no doubt crept in; forget them as soon as you can. Tomorrow is a new day; you shall begin it well and serenely, and with too high a spirit to be cumbered with your old nonsense.” — Ralph Waldo Emerson&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;“Statistics are like lungis. What they reveal is suggestive, what they hide is vital”.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;“The goal is not to be consistently right, but to be right enough when it matters.” - &lt;em&gt;Don&amp;rsquo;t remember where I got this.&lt;/em&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;“If you don&amp;rsquo;t bet, you can&amp;rsquo;t win. If you lose all your chips, you can&amp;rsquo;t bet.” - Larry Hite&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;[[20250507155203 QUOTE.md|The best thing about reading is not that it makes you smart — it doesn&amp;rsquo;t. What it does, though, is give you some perspective and change the way you think.- &lt;a href="https://tradingqna.com/u/bhuvan"&gt;@Bhuvan&lt;/a&gt;]]&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;“Incentives drive everything, and most of us underestimate what we&amp;rsquo;d be willing to do if the incentives were right.” - Morgan Housel&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Not having FOMO (fear of missing out) is the most important financial skill. It&amp;rsquo;s crucial for building wealth. If you are susceptible to FOMO, it&amp;rsquo;s hard to accumulate significant wealth over time. - Morgan Housel&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Be fearful when others are greedy &amp;amp; greedy when others are fearful - Warren Buffett&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;ul&gt;&lt;li&gt;As for history, we are living in its ruins. And as for biographies, we are living with the consequences of all the decisions ever made in them. I tend not to read them for pleasure. It&amp;rsquo;s not unlike carefully scrutinizing the map when one has already reached the destination.&lt;/li&gt;&lt;li&gt;&amp;ldquo;You can get a good deal from rehearsal, If it just has the proper dispersal. You would just be an ass, To do it en masse, Your remembering would turn out much worsal.&amp;rdquo; Ulrich Neisser&lt;/li&gt;&lt;li&gt;Admiration is a state furthest away from understanding. - Ruth Bader Ginsburg&lt;/li&gt;&lt;li&gt;Don&amp;rsquo;t be distracted by emotions like anger, envy, resentment. This just zap energy and time. - Ruth Bader Ginsburg&lt;/li&gt;&lt;li&gt;You can&amp;rsquo;t have it all, at once. - Ruth Bader Ginsburg&lt;/li&gt;&lt;li&gt;So that&amp;rsquo;s the dissenter&amp;rsquo;s hope; that they are writing not for today, but for tomorrow. - Ruth Bader Ginsburg&lt;/li&gt;&lt;/ul&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;%% DATAVIEW_PUBLISHER: end %%&lt;/p&gt;</description></item></channel></rss>
